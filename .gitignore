@@ -1,0 +1,8 @@
+config
+config/keys.js
+.env
+.env.production
+.firebaserc
+firebase.json
+.firebase
+node_modules
